@@ -1,0 +1,441 @@
+Package: vn.gsm.8ballpoolhack
+Version: 1.0.0-53
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: mobilesubstrate
+Filename: ./8ballpoolhackbyminiclip_1.0.0-53.deb
+Size: 3182
+MD5sum: 74c8490075146046c33162fe13008c81
+SHA1: 96d8be3027aec5aff51f604becfa510818b768bd
+SHA256: 8c3f5cf0eb9552a8b90bcfc211204432fdb28983dec747b4c64e2f68756268c9
+Section: !CydiaVn-Hacks
+Homepage: http://cydia.vn/
+Description: 8 Ball Pool Hack! By DarkPro0!
+Author: DarkPro0
+Depiction: http://cydia.vn/depic/t4372/
+Name: 8 Ball Pool Hack By Miniclip
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.9mmdlc
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Depends: com.ericasadun.utilities
+Filename: ./9mmdlc_1.0.deb
+Size: 1230
+MD5sum: bf5a10f3f5fd54491901e2fd35521315
+SHA1: 414d61e9055dc67422972beabafce9e247eed6da
+SHA256: b8a6fea070560313e3644ea814d18581d1d77b3216e710e90da1c768b0d2c78e
+Section: !GSMVN-Hacks
+Priority: Standard
+Homepage: http://cydia.vn/
+Description: 9mm DLC Unlocker - Adds 100,000,000 of Cash
+Depiction: http://cydia.gsm.vn/t1825/
+Name: 9mm DLC
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.asphalt7
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: com.ericasadun.utilities, apt7, bash, coreutils, grep, gawk, findutils, vn.gsm.ldone
+Filename: ./asphalt7heat_1.0.0.deb
+Size: 4787446
+MD5sum: f0df7a09585713f101822f08dbf7e712
+SHA1: b6f6580cda4fada0abb1e3f37b0acbb99f5936af
+SHA256: c43f864083ebc291ef8896811f4f7484f8a0214d6ca5b705ec882d2451915030
+Section: !GSMVN-Hacks
+Homepage: http://cydia.vn/
+Description: Bạn sẽ có được 600,000$ sau mỗi lần đua.
+Author: t0r <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t3172/
+Name: Asphalt 7: Heat Hack
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.ckzombies
+Version: 1.0-1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: gsmicon
+Filename: ./ckzombiesdlc_1.0-1.deb
+Size: 8180
+MD5sum: 36a24863079412426d4b387a95d1e6d1
+SHA1: f8690eab9eb44fdab810c34c8062facfd3750b97
+SHA256: 7aed29f90fa4f36e87a27b43c478b64d88d7d3567ecc866acb22c8bcc0b7a6d2
+Section: !GSMVN-Hacks
+Priority: Standard
+Homepage: http://cydia.vn/
+Description: Contract Killer: Zombies DLC Unlocker
+Author: Thieu.Bocap <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t2118/
+Name: Contract Killer: Zombies DLC
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.cuttheropeexperimentshack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: gsmicon, coreutils, com.ericasadun.utilities
+Filename: ./cuttheropeexperimentshack_1.0.deb
+Size: 3426
+MD5sum: 17483beb63245c2122d3e61adbac719a
+SHA1: d8147ad83a21b4430a1af5234325142de49661c3
+SHA256: 929b938de8bfae9c4f8d63adb6ddbbe13d765d2fe3407b7f5c9baadadabfd3a2
+Section: !GSMVN-Hacks
+Priority: Standard
+Homepage: http://cydia.vn/
+Description: Unlock Everything!
+Author: Appstore <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t1858/
+Name: Cut.The.Rope Experiments Hack
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.dh3dlc
+Version: 1.1.1-2
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Depends: gsmicon, com.ericasadun.utilities, ldone | vn.gsm.ldone
+Filename: ./dh3_1.1.1-2.deb
+Size: 309654
+MD5sum: b7cb520c1d277fb0dc5c46c60ef845cb
+SHA1: d0572814284dac409e1b66e1dc5bc603ed7b4e68
+SHA256: 8a5ad623e75fdf79e0146bd62199eca88780911fa2c4c409abd961bb2cb39a32
+Section: !GSMVN-Hacks
+Priority: Standard
+Homepage: http://cydia.vn/
+Description: Dungeon Hunter 3 DLC Unlocker.
+Author: Hacker
+Depiction: http://cydia.gsm.vn/t2231/
+Name: Dungeon Hunter 3 DLC
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.dungeonhunter4
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: gsmicon, com.ericasadun.utilities, ldone | vn.gsm.ldone
+Filename: ./dungeonhunter4_1.0.deb
+Size: 6919586
+MD5sum: f6695b9fcf99eaff8b421b396162379c
+SHA1: 907ddb620f61051d7f0b80b11eca19f546f3cfd2
+SHA256: 7afec92e68caf8faa6c806f98bdbc33d54d250edc2aa4a25571325e3c291797a
+Section: !GSMVN-Hacks
+Homepage: http://cydia.vn/
+Description: Unlimited Diamond, Unlimited Gold & All the upgrade unlocked.
+Author: Cydia.vn <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t4190/
+Name: Dungeon Hunter 4 Hack
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.eternitywarriorsdlc
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: gsmicon, coreutils, com.ericasadun.utilities
+Filename: ./eternitywarriorsdlc_1.0.deb
+Size: 1292
+MD5sum: 8d9110abe4d3756bd9641fbb41e927c9
+SHA1: 325747b28bac89889f6f2d57199f7eb8ae3fa166
+SHA256: 33054c4ab3adc3ec6d4d415c982492f6fd80e6c5b4fca1b15eba6b4f766546be
+Section: !GSMVN-Hacks
+Priority: Standard
+Homepage: http://cydia.vn/
+Description: Eternity Warriors DLC - Adding Gems & Coins...
+Author: Appstore <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t1851/
+Name: Eternity Warriors DLC
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.fieldrunners
+Version: 1.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Depends: gsmicon, com.ericasadun.utilities, unzip
+Filename: ./fieldrunners_1.0.deb
+Size: 14068064
+MD5sum: 8946d770f56f7c013aca09028a5b6769
+SHA1: 0153bcd994c2398ffd3a45d0aa8f57d131eef45c
+SHA256: 6270715e5f1d3e0e67ce3556e8b2744ca383ace9d09bfe5f644f3fd6fe8f697f
+Section: !GSMVN-Hacks
+Homepage: http://cydia.vn/
+Description: FieldRunners DLC Maps Unlocker
+Author: Appstore <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t1837/
+Name: Fieldrunners DLC
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.fieldrunners2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: com.ericasadun.utilities, apt7, bash, coreutils, grep, gawk, findutils, vn.gsm.ldone
+Filename: ./fieldrunners2_1.0.deb
+Size: 1606100
+MD5sum: 87e8a97b72b41bd93e5627c41e7811ce
+SHA1: 01bae9a3e7cd0dac508aef6e283a1383185dabba
+SHA256: 93d067dc2f9f15d529103082a151cc3ef6901c5380f99bd805740fc4db47a918
+Section: !GSMVN-Hacks
+Homepage: http://cydia.vn/
+Description: Hack được thêm tiền mỗi khi xây Tower trong game.
+Author: t0r <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t3171/
+Name: Fieldrunners 2 Hack
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.fifa12dlc
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Depends: com.ericasadun.utilities
+Filename: ./fifa12dlc_1.0.deb
+Size: 15882
+MD5sum: e2347f4ba9ddc0db7a22e7689700b77f
+SHA1: 364fa0a49ff3cf3eb41c37d14a782218a5a82832
+SHA256: c253c542d6821944eea7ee796d98d8c39c435e46c67a6167d8a289ff02ed2f38
+Section: !GSMVN-Hacks
+Priority: Standard
+Homepage: http://cydia.vn/
+Description: FIFA 12 DLC Unlocker.
+Depiction: http://cydia.gsm.vn/t2230/
+Name: FIFA 12 DLC
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.gameplayer
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 1900
+Conflicts: com.duowan.gameplayer
+Filename: ./gameplayer_1.3.2.deb
+Size: 1252450
+MD5sum: f8fb18c3b1957ebec09921572c4c033d
+SHA1: 477b97056e36641838db0d0d8bce4f7d70eedd5b
+SHA256: 42cd81baf437be35d9540a05f660a6ba1cc2718266f9be60bf297c8bbd1c90d6
+Section: !GSMVN-Hacks
+Priority: optional
+Homepage: http://cydia.vn/
+Description: GamePlayer là một công cụ hack game mạnh mẽ, nó có thể hack hầu hết các game Offline và một số game online.
+Author: Maocai Luo <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t3170/
+Icon: file:///Applications/GamePlayer.app/icon-57.png
+Name: GamePlayer
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.gtavicecityhack
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 10
+Depends: gsmicon
+Filename: ./gtavicecityhack_1.0.deb
+Size: 63638
+MD5sum: 1e735c85b3d8c66a4d9532e6a8ca691c
+SHA1: 9e926767be0ac39b41835dc623d9590bd87c83a6
+SHA256: 9ecf5057d0aef12cadc5b4c19f5e4168fc635a1c74ccf8c4f3cd628b15320a30
+Section: !GSMVN-Hacks
+Priority: Standard
+Homepage: http://cydia.vn/
+Description: Grand Theft Auto: Vice City to get unlimited money, ammo.
+Author: Gameloft <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t2118/
+Name: GTA Vice City Hack
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.gunbrosdlc
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: gsmicon, coreutils, com.ericasadun.utilities
+Filename: ./gunbrosdlc_1.0.deb
+Size: 1280
+MD5sum: 24f7cc22c0917f2de2f7ad02d0a1936a
+SHA1: e89a69949a84ab1ae9d9f3bec239b08f5db70cb8
+SHA256: 0f402ddff2b227b099ea958ac885aa9d5aff087331f3757b417916199e89f861
+Section: !GSMVN-Hacks
+Priority: Standard
+Homepage: http://cydia.vn/
+Description: Gun Bros DLC - Adding War Bucks & Coins...
+Author: Appstore <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t1850/
+Name: Gun Bros DLC
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.haxie
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: gsmicon, com.ericasadun.utilities
+Filename: ./haxie_1.4.deb
+Size: 319838
+MD5sum: e5ae30c269622cbe8407023f8ebc5a49
+SHA1: d034010bd9d38373d1ab9bda76e9d75a763bc003
+SHA256: c55f9b8a4269ab2c79d84a53b134126bb0b43eaf651e54f8369eb414955822c7
+Section: !GSMVN-Hacks
+Homepage: http://cydia.vn/
+Description: GUI for dlc.sh and Ramsey's LevelUnlocker. Now with more #dickbar!
+Author: Kaikz <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t1818/
+Icon: file:///Applications/haxie.app/Icon.png
+Name: DLC Unlocker
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.hipstamaticdlc
+Version: 1.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Depends: gsmicon, com.ericasadun.utilities, unzip
+Filename: ./hipstamaticdlc_1.1.deb
+Size: 29266098
+MD5sum: f96340dd9a5cb1422afed2ff898a05a2
+SHA1: 53626fdbdf6f7988d3210389162e4f2316b2624d
+SHA256: 9a47f6edbefde5a0bfafa591e24116bf6b03cda8a941f9af4753159b1c54a375
+Section: !GSMVN-Hacks
+Homepage: http://cydia.vn/
+Description: Hipstamatic DLC Unlocker
+Author: Appstore <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t1838/
+Name: Hipstamatic DLC
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
+Package: vn.gsm.iap
+Version: 0.8-1
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <support@gsm.vn>
+Installed-Size: 128
+Depends: gsmicon, mobilesubstrate
+Filename: ./iap_0.8-1.deb
+Size: 65886
+MD5sum: 104fb5759388c34d70f8981e3a1d9d0d
+SHA1: 88335e3a41b79fffae90377eedef184028495358
+SHA256: 7acfc7cc361d804f9420b120e7a6e82769cf82a460c1882df2436d3c06090ca4
+Section: !GSMVN-Hacks
+Homepage: http://cydia.vn/
+Description: Free inapp purchases
+Author: Appstore <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t1982/
+Name: iAP Cracker
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.iapcrazy
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: firmware (>= 6.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: vn.gsm.localiapstore, vn.gsm.iapfree103f, vn.gsm.iapfree
+Filename: ./iapcrazy_1.4.0.deb
+Size: 5433848
+MD5sum: f8a7e9a1e3786b31329f2be4f90640b0
+SHA1: 0b282513c6d23950ecd78a81d46b101bf3b1f126
+SHA256: 518dee9fbeaf6fc748cded798e24c019a0dfb263770d737357acd924f38b26dc
+Section: !CydiaVn-Hacks
+Homepage: http://cydia.vn/
+Description: New FREE In-App Purchases for most Apps/Games
+Author: WWW.YouYuanApp.COM
+Depiction: http://cydia.vn/depic/t5211/
+Icon: file:///Applications/IAPCrazy.app/AppIcon57x57.png
+Name: IAPCrazy
+
+Package: vn.gsm.iapcrazy
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: firmware (>= 6.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: vn.gsm.localiapstore, vn.gsm.iapfree103f, vn.gsm.iapfree
+Filename: ./iapcrazy_1.4.1.deb
+Size: 5434530
+MD5sum: 52f0c23900bf3b967c9eb7c83aae1a47
+SHA1: a1e82f9c1a157b1d1a2e565c405fc993aaa64a92
+SHA256: c086e06cd68c09ac81562c184079e635b28e5a67b17f06e65df5eb63aaebef8c
+Section: !CydiaVn-Hacks
+Homepage: http://cydia.vn/
+Description: New FREE In-App Purchases for most Apps/Games
+Author: WWW.YouYuanApp.COM
+Depiction: http://cydia.vn/depic/t5211/
+Icon: file:///Applications/IAPCrazy.app/AppIcon57x57.png
+Name: IAPCrazy
+
+Package: vn.gsm.iceagevillagedlc
+Version: 1.0.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: gsmicon
+Filename: ./iceagevilligedlc_1.0.1.deb
+Size: 1488
+MD5sum: 78f981704a1964a481c2ad8632b1dd98
+SHA1: 6a4e54fd76469da77bdd9787dc8340ec9f713aa5
+SHA256: d74f21d7204b7c9f707c63fc2d3df655c1ae8ca07eda28cc0e22cd46bdcac0a4
+Section: !GSMVN-Hacks
+Priority: Standard
+Homepage: http://cydia.vn/
+Description: Ice Age Village DLC Unlocker
+Author: Appstore <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t2619/
+Name: Ice Age Village DLC
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.igameguardian
+Version: 3.1.0
+Architecture: iphoneos-arm
+Maintainer: Cydia.vn <repo@cydia.vn>
+Installed-Size: 300
+Depends: gsmicon, firmware (>= 5.0)
+Filename: ./iGameGuardian_3.1.0.deb
+Size: 260206
+MD5sum: 5b45f30a30c44873d24597fe980ccb9c
+SHA1: 1d09753ce45c09ba5e5c3f52375b6cc2a128a66f
+SHA256: 28e6ab8134a6da6a219b2ce0bedb2e1007601a65c0b0e7ee9a023422dc471370
+Section: !GSMVN-Hacks
+Homepage: http://cydia.vn/
+Description: iGameGuardian is a game cheating engine for iOS 5.x/6.x.
+Author: Guardian <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t3765/
+Icon: file:///Applications/iGameGuardian.app/pug_57.png
+Name: iGameGuardian
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.jetpackjoyride
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: com.ericasadun.utilities, apt7, bash, coreutils, grep, gawk, findutils, ldone | vn.gsm.ldone
+Filename: ./jetpackjoyridehack_1.3.1.deb
+Size: 3889948
+MD5sum: c55b9545e498adf004fb6d98f2153247
+SHA1: 2627b30efe3f528037631acd431cb19b704996f2
+SHA256: 01d16c7d3d016fae65aa6d3cbcbd5cc316c816696d012aa8f25ca2b4253134ea
+Section: !GSMVN-Hacks
+Description: Mua tất cả các item trong JetPack JoyRide miễn phí :)
+Author: Jack
+Depiction: http://cydia.gsm.vn/t2738/
+Name: JetPack JoyRide Hack
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.gsm.kungfuwarriordlc
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Thieu.Bocap <repo@cydia.vn>
+Depends: gsmicon, coreutils, com.ericasadun.utilities
+Filename: ./kungfuwarriordlc_1.3.deb
+Size: 1554
+MD5sum: 109f89d8c93fc0905dee53e0d6e01202
+SHA1: 0d509965b1662cdb87aee99a4cd12def98bcdd4a
+SHA256: 5f5bdd7c5ea503c9ecec6ab2e297b57cee09f44c36b1b8fb737cc5c0c19622f5
+Section: !GSMVN-Hacks
+Priority: Standard
+Homepage: http://cydia.vn/
+Description: KungFu Warrior DLC Unlocker
+Author: Appstore <repo@cydia.vn>
+Depiction: http://cydia.gsm.vn/t1852/
+Name: Cut.The.Rope Experiments Hack
+Sponsor: iPhone GSM.VN <http://gsm.vn/f339/>
+
